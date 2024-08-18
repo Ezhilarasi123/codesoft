@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+My Internship at CodSoft:
 
-This project is a starting point for a Flutter application.
+During my Android App Development internship, I was tasked with creating an  applications using Flutter: a Quote App 
 
-A few resources to get you started if this is your first Flutter project:
+Quote App:
+This app allows users to change the displayed random quote, add it to their favorites if they like it, and share the quote via Gmail or any other available app. Additionally, users can contribute their own quotes to the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
